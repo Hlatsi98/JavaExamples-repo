@@ -7,7 +7,7 @@ package EvenOdd;
 
 /**
  *
- * @author Mahlatse=bin
+ * @author Hlatse98
  */
 import java.util.Scanner;
 public class EvenOdd
