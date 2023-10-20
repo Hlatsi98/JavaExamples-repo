@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class GetUserInfo
+{
+      public static void main(String[] args)
+      {
+          String name;
+          int age;
+
+          Scanner input=new Scanner(System.in);
+          System.out.println("Please enter your name.");
+          name=puti=n.nextLine();
+        
+          System.out.println("Please enter your age.");
+          age=putin.nextInt();
+        
+          System.out.println("name : "+name+" Age : "+age);
+        
+      }
+}
